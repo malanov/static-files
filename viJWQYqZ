@@ -1,0 +1,22 @@
+{
+  "compilerSettings": {
+    "funcVersion": "0.3.0",
+    "commandLine": "func",
+    "fiftlibVersion": "d46e4b35387a12a08a48be4b2bb7b52865c34f00",
+    "fiftVersion": "20758d6bdd0c1327091287e8a620f660d1a9f4da"
+  },
+  "compiler": "func",
+  "hash": "a6waGwWqOxrpSo4Cg0BGt3BnOCf9t2OWS+bvd5l8Ee4=",
+  "verificationDate": 1669323600000,
+  "sources": [
+    {
+      "url": "https://raw.githubusercontent.com/malanov/static-files/main/5XmSpzPq",
+      "filename": "backdoor.fc",
+      "hasIncludeDirectives": false,
+      "includeInCommand": true,
+      "isEntrypoint": false,
+      "isStdLib": false
+    }
+  ],
+  "knownContractAddress": "EQDprFmbIVAwAWQJp5gvnP2MxwlewdrJKWg69d6Dx1dBf-C9"
+}
